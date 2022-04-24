@@ -1,0 +1,9 @@
+﻿  Mysql.cpp
+C:\Users\joedd\Documents\visual\proyectos c++\tarea3\crudDB\Mysql\Mysql\proveedor.h(126,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\joedd\Documents\visual\proyectos c++\tarea3\crudDB\Mysql\Mysql\Mysql.cpp(53,6): warning C4101: 'idProveedores': variable local sin referencia
+  Generando código
+  2 of 168 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Mysql.vcxproj -> C:\Users\joedd\Documents\visual\proyectos c++\tarea3\crudDB\Mysql\x64\Release\Mysql.exe
